@@ -2,8 +2,7 @@
 #include <math.h>
 
 int main(){
-	printf("Furkan Dulkadir 221030910016 \n");
-	long int banka=1000000;
+-	long int banka=1000000;
 	long int istek;
 	printf("Lutfen cekmek istediginiz tutari giriniz: ");
 	scanf("%d", &istek);

@@ -2,7 +2,6 @@
 #include <stdlib.h>
 
 int main(){
-	printf("Furkan Dulkadir 221030910016\n");
 	char alfabe[26] = {'a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z'};
 	char kelime[50],sifre[50];
 	printf("Lutfen sifrelemek istediginiz kelimeyi giriniz: ");

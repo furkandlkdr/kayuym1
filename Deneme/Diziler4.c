@@ -2,6 +2,8 @@
 
 int main(){
 	int i,j,k;
+	//3 boyutlu bir dizi olusturuyoruz, en icerdeki sayilar en sagdaki dizi boyutuna sahip oluyor
+	//yani 4 boyutlu 4 tane diziden 10 tane var
 	int sayiDizisi[10][4][4]={
 		{{3,2,-1,-4},{5,1,2,3},{12,3,-4,-2},{9,2,3,-10}},
 		{{2,3,4,-16},{2,1,-20,-15},{2,7,9,-9},{-19,9,-7,-6}},

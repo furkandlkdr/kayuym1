@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <time.h>
 int main(){
-	printf("Furkan Dulkadir 221030910016 \n");
 	srand(time(NULL));
 	int limit,x,y,i,j,a,b,test,sayac=0;
 	printf("Lutfen kare matrisin mertebesini belirtin: ");

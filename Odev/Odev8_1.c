@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <time.h>
 int main(){
-	printf("Furkan Dulkadir 221030910016\n");
 	int oylar[5];
 	srand (time(0));
 	int temp1=0,temp2,sayac;

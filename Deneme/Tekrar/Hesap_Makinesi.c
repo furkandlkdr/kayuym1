@@ -2,7 +2,6 @@
 #include <math.h>
 
 int main(){
-	printf("Furkan Dulkadir 221030910016 \n");
 	float sayi1,sayi2;
 	char islem;
 	printf("Lutfen ilk sayiyi giriniz: \n");

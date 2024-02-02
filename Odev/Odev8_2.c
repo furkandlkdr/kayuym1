@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 int main(){
-	printf("Furkan Dulkadir 221030910016\n");
 	int bank[7]={200,100,50,20,10,5,1};
 	int para,sayac,a;
 	printf("Lutfen para miktarini giriniz: ");

@@ -4,7 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout << "Furkan Dulkadir 221030910016" << endl;
     char yas;
     cout << "Lutfen yas giriniz" << endl;
     cin >> yas;

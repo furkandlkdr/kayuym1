@@ -3,7 +3,6 @@
 #include <math.h>
 
 int main(){
-	printf("Furkan Dulkadir 221030910016\n");
 	int sayi;
 	int sayac1=1;
 	int sayac2=0;

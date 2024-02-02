@@ -2,7 +2,6 @@
 #include <stdlib.h>
 int ackerman(int,int);
 int main(){
-	printf("Furkan Dulkadir 221030910016\n");
 	printf("Lutfen iki sayi giriniz: ");
 	int x,y;
 	scanf("%d %d",&x,&y);

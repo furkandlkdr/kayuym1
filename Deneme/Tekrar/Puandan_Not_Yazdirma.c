@@ -2,7 +2,6 @@
 #include <math.h>
 
 int main(){
-	printf("Furkan Dulkadir 221030910016 \n");
 	int puan;
 	printf("Lutfen puaninizi giriniz: ");
 	scanf("%d", &puan);

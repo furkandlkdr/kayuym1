@@ -5,7 +5,7 @@ int main(){
 	int sayi,x,asalmi=0,j;
 	printf("Asal sayilarin bulunmasi icin bir sayi giriniz: ");
 	scanf("%d",&sayi);
-	
+//Kullanicinin girdigi sayiya kadar tum asal sayilari yazdiran kod
 	for (x=2;x<=sayi;x++){
 		asalmi=0;
 		for(j=2;j<x;j++){

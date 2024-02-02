@@ -7,10 +7,8 @@ int main(){
 	char secilen;
 	int temp;
 	system("COLOR 9");
-	printf("Furkan Dulkadir 221030910016\n");
 	printf("Tas=T, Kagit=K, Makas=M, Cikis=C\n");
 	do{
-		
 		printf("\n  Lutfen yapacaginiz hamleyi seciniz:  ");
 		scanf("%s",&secilen);
 		switch(secilen){ //Secilen harfe gore temp atamasi
@@ -34,7 +32,7 @@ int main(){
 	return 0;
 }
 void rps(int sayi){/*Tas kagit makas fonksiyonu randomla 
-alýyor ona göre eþitleyip ayrý ayrý yazýyor*/
+alï¿½yor ona gï¿½re eï¿½itleyip ayrï¿½ ayrï¿½ yazï¿½yor*/
 	srand(time(0));
 	int temp=rand()%3;
 	if (sayi==temp)

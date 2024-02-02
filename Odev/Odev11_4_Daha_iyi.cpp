@@ -4,7 +4,6 @@
 
 using namespace std;
 int main(){
-	printf("Furkan Dulkadir 221030910016\n");
 	string rehber[8][2]={{"OYKU","5055057555"},{"FEYZA","5028087585"},{"ENIS","5429089952"},{"EMRE","5409876655"},
 	{"BURAK","5075527656"},{"SU","5678889052"},{"MERT","5759900595"},{"AHMET","5878809785"}};
 	string aranan;

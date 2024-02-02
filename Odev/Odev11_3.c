@@ -36,7 +36,6 @@ int gunler(int day,int kalan){//Gunleri yazdirma fonksiyonu
 int main(){
 	char *aylar[13]={"OCAK","SUBAT","MART","NISAN","MAYIS",
 	"HAZIRAN","TEMMUZ","\0","AGUSTOS","EYLUL","EKIM","KASIM","ARALIK"};
-	printf("Furkan Dulkadir 221030910016\n");
 	int kalan=6,i;
 	printf("2023 Yili Takvimi \n");
 	cizgi();//Ocak ayinin degerlerini manuel girip geri kalanini donguye biraktim.

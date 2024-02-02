@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//Pointer kullanarak maks ve min degerleri donderen bir program
 void fonk(int *dizi,int boyut,int *maks,int *min){
 	*maks= dizi[0];
 	*min= dizi[0];

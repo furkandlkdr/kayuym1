@@ -2,7 +2,6 @@
 #include <math.h>
 
 int main(){
-	printf("Furkan Dulkadir 221030910016 \n");
 	float sicaklik;
 	char birim;
 	printf("Lutfen sicakligin sayisal degerini giriniz: ");

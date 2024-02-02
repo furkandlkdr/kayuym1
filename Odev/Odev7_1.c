@@ -2,7 +2,6 @@
 #include <stdlib.h>
 
 int main(){
-	printf("Furkan Dulkadir 221030910016\n");
 	int sayi,sayac1,sayac2=0,bol=0,asalmi=0;
 	printf("Lutfen bir sayi giriniz: ");
 	scanf("%d",&sayi);

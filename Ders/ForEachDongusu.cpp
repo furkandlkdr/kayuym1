@@ -9,4 +9,3 @@ int main(){
 	}
 	return 0;
 }
-//desteklenmeyen sürümden ötürü çalışmadı.

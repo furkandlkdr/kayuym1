@@ -2,9 +2,9 @@
 #include <stdlib.h>
 
 int main()
-{
+{//switch-case alistirmasi
     int sayi;
-    printf("bir sayý giriniz: ");
+    printf("bir sayi giriniz: ");
     scanf("%d",&sayi);
     switch(sayi){
     case 1:

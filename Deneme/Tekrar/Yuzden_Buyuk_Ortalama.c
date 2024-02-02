@@ -5,7 +5,7 @@ int main(){
 	int sayiAdet,sayi1,sayac1,sayac2=0,toplam1=0,toplam2=0,ort1=0;
 	printf("Sayi adedini giriniz: ");
 	scanf("%d",&sayiAdet);
-	
+//100den kucuk sayilari ve yuzden buyuk sayilari ayri ayri toplayip ort. alan kod
 	for(sayac1=1;sayac1<=sayiAdet;sayac1++){
 		printf("Lutfen sayi%d giriniz: ",sayac1);
 		scanf("%d",&sayi1);

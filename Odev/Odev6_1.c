@@ -2,7 +2,6 @@
 
 int main(){
 	int sayi,a,b,c;
-	printf("Furkan Dulkadir 221030910016\n");
 	float ort;
 	b=0;
 	printf("Sayi giriniz: ");

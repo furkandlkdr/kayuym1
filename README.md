@@ -4,28 +4,30 @@ Kayseri Üniversitesi - Yazılım Mühendisliği bölümünün ilk öğrencileri
 
 Boş kod veya çalışmayan kod olabilir. Elimden geldiğince tüm örnekleri açık bir şekilde yazmaya çalıştım. Anlamadığınız - takıldığınız olursa ulaşabilirsiniz.
 
-##### Deneme
+### Deneme Klasörü
 
 Tekrar yapmak veya o an bir kodu anlatmak için açtığım, muhtemelen kod tekrarı içeren, basit algoritmalar ile dolu test klasörü.
 
-##### Ders
+### Ders Klasörü
 
 Haftada bir kez işlediğimiz derslerde yapılan örnekler ve konu anlatımları.
+
 *2. dersin 4. örneği için isimlendirme: Ders2_4.c*
 
-##### Kayu_Bm_Final_Sorular
+### Kayu_Bm_Final_Sorular Klasörü
 
 Kayseri Üniversitesi - Bilgisayar Mühendisliği bölümünün 1. sene güz döneminde yapılan final sınavının soruları.
 
-##### Odev
+### Odev Klasörü
 
 Güz döneminde her hafta tekrar ve pratik yapmamız için bölüm hocamız tarafından verilen ödevler.
+
 *2. haftanın 3. ödevi için isimlendirme: Odev2_3.c*
 
-##### 0yunlar
+### 0yunlar Klasörü
 
 Ödev olarak verilen veya harici olarak kodlamayı yeni öğrenirken yaptığım konsol oyunları.
 
-##### Sinav
+### Sinav Klasörü
 
 Yazılım Mühendisliği bölümünün 1. sene güz dönemindeki vize ve/veya final soruları.

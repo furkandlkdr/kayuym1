@@ -1,4 +1,4 @@
-# Projects, Examples and Homeworks that we made in Kayseri University / Software Engineering first year
+# KAYU Software Engineering First Year Codes
 
 Kayseri Üniversitesi - Yazılım Mühendisliği bölümünün ilk öğrencilerinden olarak, güz döneminde yaptığımız örnekleri, ödevleri ve projeleri paylaştım.
 

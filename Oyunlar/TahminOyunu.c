@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-//Furkan Dulkadir 221030910016
+//Furkan Nafair Student_Number
 void tahmin();
 
 	int main(){

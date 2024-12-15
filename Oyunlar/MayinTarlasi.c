@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-//Furkan Dulkadir 221030910016
+//Furkan Nafair Student_Number
 int main(){
 	int x,y,i,j,sa,su,toprak=0;
 	srand(time(0));
@@ -30,7 +30,7 @@ int main(){
 	printf("\n");
 	
 	do{	
-		if(toprak == x*y || toprak == 0){//KAZANMA ÞARTI
+		if(toprak == x*y || toprak == 0){//KAZANMA ï¿½ARTI
 			printf("KAZANDINIZ!\n");
 			break;}
 		for(i=0;i<x;i++){ //GOSTERILECEK TARLA
